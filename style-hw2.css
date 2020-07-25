@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Neuton', serif;
+}
+      
+
+
+    
+header h1{
+    font-family: 'Neuton', serif;
+}
+
+
+h1:hover{
+    border: 10px black;
+    border-radius: 10px orange;
+    
+    
+}
+
+body {
+background-color: rgba(245, 222, 179, 0.815);
+background-attachment: fixed; 
+max-width:  1340.98px;
+border: double rgba(0, 0, 0, 0.329);
+
+
+
+
+}
+
+html {
+    background-color: rgba(109, 164, 247, 0.466) ;
+    margin: 50px;
+   
+    
+}
+a {
+    font-size: 500px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.article img{
+width: 100px;
+height: 120px;
+
+}
+nav.row.align-items-start{
+    background-color: rgba(48, 134, 150, 0.541);
+} 
+nav.row.align-items-start:hover {
+background-color:rgba(0, 0, 0, 0.0);
+}
+
+a.btn.btn-info:hover{
+    background-color: rgb(19, 10, 150);;
+}
+footer h1{
+    outline-style: outset;
+    outline-color: rgb(255, 255, 255);
+    background-color: rgba(48, 134, 150, 0.541);
+    color: rgb(0, 0, 0);
+    font-size: small;
+}
